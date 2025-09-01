@@ -1,0 +1,3 @@
+To be able to know the differences between git commands.
+To build a simple project using node.js.
+To know what is the purpose of libraries and dependencies.
